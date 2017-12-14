@@ -1,0 +1,64 @@
+  www.webmobsoftware.com
+
+
+
+	'hostname' => 'localhost',
+	'username' => 'virtun9z_demo',
+	'password' => 'V*b#$#0TPfoq',
+	'database' => 'virtun9z_demo_elite',
+	'dbdriver' => 'mysqli',
+	
+	
+mysqldump -u virtun9z_demo -p V*b#$#0TPfoq database_name > data-dump.sql	
+	
+mysqldump -u username -p database_name > data-dump.sql
+
+
+
+mysql -u username -p new_database < data-dump.sql
+
+
+
+
+databasename;
+
+virtun9z_dotit
+virtun9z_dotit
+pass
+virtun9z_dotit
+
+
+  
+  288   21-11-2017, 12:45:21 mysql -u virtun9z_dotit -p virtun9z_dotit < /home/virtun9z/www/www.webmobsoftware.com/live_magento.sql 
+  289   21-11-2017, 13:09:27 history
+[virtun9z@md-34 ~]$ 
+
+sandeep@sandeep-DL-H61M-VG4:~$ scp -v /home/sandeep/Desktop/hospitallive/1/ME/dotit/ALL/EspacenetSearch.py virtun9z@199.79.62.13:www/www.webmobsoftware.com/magento 
+
+sandeep@sandeep-DL-H61M-VG4:~$ ping 199.79.62.13
+
+sandeep@sandeep-DL-H61M-VG4:~$ scp -v /home/sandeep/Desktop/hospitallive/1/ME/dotit/ALL/EspacenetSearch.py virtun9z@199.79.62.13:www/www.webmobsoftware.com/magento 
+
+sandeep@sandeep-DL-H61M-VG4:~$ scp /home/sandeep/Desktop/hospitallive/1/ME/dotit/ALL/EspacenetSearch.py @199.79.62.13:www/www.webmobsoftware.com/magento 
+
+
+Import:
+mysql -u virtun9z_dotit -p virtun9z_dotit < /home/virtun9z/www/www.webmobsoftware.com/perispay.sql
+
+Export:
+mysqldump -u virtun9z_dotit -p virtun9z_dotit > /home/virtun9z/www/www.webmobsoftware.com/mydatabase.sql	
+
+
+//For get current path 
+pwd
+
+
+https://www.dotit.com/
+https://www.dotit.com/
+
+
+/www.webmobsoftware.com/magento/app/design/frontend/default/modern/layout
+
+
+
+/home/sandeep/Desktop/hospitallive/ME/agnt
